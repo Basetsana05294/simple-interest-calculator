@@ -1,0 +1,23 @@
+- Click **“Commit new file”**
+
+---
+
+### ✅ 3. `LICENSE`
+- Click **“Add file” > “Create new file”**
+- Name the file: `LICENSE`
+- Paste the full text of the **Apache License 2.0** (GitHub offers a template for this)
+- Or go to your repo’s **Settings > Add license** and select Apache 2.0
+
+---
+
+### ✅ 4. `CODE_OF_CONDUCT.md`
+- Click **“Add file” > “Create new file”**
+- Name the file: `CODE_OF_CONDUCT.md`
+- Paste this:
+```markdown
+# Contributor Covenant Code of Conduct
+
+We pledge to make participation in our project a harassment-free experience for everyone.  
+Please be respectful, inclusive, and constructive in all interactions.
+
+For questions or concerns, contact the maintainers.
